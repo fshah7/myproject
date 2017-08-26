@@ -1,7 +1,7 @@
 # Falgun Shah
 
 ![My Picture](/images/falgun.jpg)
-
+Format: ![Alt Text](url)
 
 # Where are you from ?
 I am from Mumbai, India. Currently, I am based in Seattle
