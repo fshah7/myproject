@@ -1,4 +1,4 @@
 # myproject
 # Falgun Shah
 
-(/falgun.jpeg)
+myproject/falgun.jpg
