@@ -1,6 +1,6 @@
 # Falgun Shah
 
-![GitHub Logo](/image/falgun.jpg)
+![My Picture](/image/falgun.jpg)
 
 # Where are you from ?
 I am from Mumbai, India. Currently, I am based in Seattle
@@ -14,4 +14,6 @@ I am from Mumbai, India. Currently, I am based in Seattle
 I really like Dancing and I have learnt American Latin dance style (Salsa, Jive, Bachata, Cha-Cha)
 
 # Github Tutorial Badge
-![GitHub Logo](/image/gittutorial.png)
+![Github Tutorial](/image/gittutorial.PNG)
+![Github Badge](/image/git_badge1.PNG)
+![Github Badge](/image/git_badge2.PNG)
