@@ -1,5 +1,7 @@
-# myproject
 # Falgun Shah
+
+![My Picture](/images/falgun.jpg)
+
 
 # Where are you from ?
 I am from Mumbai, India. Currently, I am based in Seattle
